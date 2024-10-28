@@ -1,4 +1,4 @@
-import pygame
+import pygame #pls install pygame first in the path using (pip install pygame)
 import time
 import random
 
